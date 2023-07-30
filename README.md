@@ -21,7 +21,7 @@ Password Recovery: Users can reset their passwords by requesting a password reco
 
 
 
-#####**Tech Stack**
+##### **Tech Stack**
 
 Backend Framework: Django
 
