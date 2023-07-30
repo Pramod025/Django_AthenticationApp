@@ -8,7 +8,7 @@
 
 This project is a simple web application built with Django, providing user registration and login functionality with email confirmation. The application ensures a secure and streamlined process for user sign up and login, enhancing the overall user experience.
 
-__Features__
+### **Features**
 
 User Registration: New users can sign up for the platform by providing their email address and a secure password.  
 
