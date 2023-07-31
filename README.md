@@ -16,8 +16,6 @@ Email Confirmation: Upon registration, users receive a verification email with a
 
 User Login: Registered users can securely log in using their email and password.  
 
-Password Recovery: Users can reset their passwords by requesting a password recovery email.  
-
 
 
 
